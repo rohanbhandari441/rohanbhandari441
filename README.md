@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rohanbhandari441@gmail.com**
 
-- ⚡ Fun Fact **Keep it Simple**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
