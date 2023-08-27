@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Bhandari</h1>
 <h3 align="center">A passionate ECE Engineering Student from India</h3>
-<img align="right"alt="coding" width="350" src="![image](https://github.com/rohanbhandari441/rohanbhandari441/assets/105143327/4839f7d5-1ab5-4ae8-8d5d-dead5227967f)
+<img align="right"alt="Passionate" width="350" src="![image](https://github.com/rohanbhandari441/rohanbhandari441/assets/105143327/4839f7d5-1ab5-4ae8-8d5d-dead5227967f)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanbhandari441&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbhandari441" /> </p>
